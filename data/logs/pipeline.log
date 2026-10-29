@@ -1,0 +1,9 @@
+2026-10-29 05:44:50,662 INFO run_id=e513c311-edc6-4178-8758-31030a1dd454 status=SUCCESS_WITH_REJECTS input=40 newly_published=28 rejected=12
+2026-10-29 05:45:08,665 INFO run_id=ef8a300d-3de5-4154-ae3f-472c20055770 status=SUCCESS_WITH_REJECTS input=40 newly_published=0 rejected=12
+2026-10-29 05:45:11,945 INFO run_id=cfccd6f1-4ebb-47fa-8d0c-be393e1a6921 status=SUCCESS_WITH_REJECTS input=40 newly_published=28 rejected=12
+2026-10-29 12:06:09,527 INFO run_id=007d72a7-f27e-400e-9a5f-253e0b6b93f0 status=SUCCESS_WITH_REJECTS input=40 newly_published=28 rejected=12
+2026-10-29 12:08:49,033 INFO run_id=322b9426-9b03-49e7-a183-72654a7a9f3a status=SUCCESS_WITH_REJECTS input=40 newly_published=0 rejected=12
+2026-10-29 12:14:16,738 INFO run_id=b0611edd-3851-4856-8b72-d6ccd76bae44 status=SUCCESS_WITH_REJECTS input=100000 newly_published=94962 rejected=5010
+2026-10-29 12:54:01,107 INFO run_id=2c755876-4e3f-4399-8115-4a486139ad20 status=SUCCESS_WITH_REJECTS input=100000 newly_published=94990 rejected=5010
+2026-10-29 12:57:36,451 INFO run_id=d70c2463-f7ab-4a13-9fa0-9678035b04e5 status=SUCCESS_WITH_REJECTS input=100000 newly_published=0 rejected=5010
+2026-10-29 18:33:03,077 INFO run_id=22dad30b-18d1-4718-944e-a712b2ee6465 status=SUCCESS_WITH_REJECTS input=100000 newly_published=0 rejected=5010

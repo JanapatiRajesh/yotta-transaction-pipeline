@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+data/output/*
+data/generated/*
+logs/*
+!data/output/.gitkeep
+!data/generated/.gitkeep
+!logs/.gitkeep
+pipeline.db
