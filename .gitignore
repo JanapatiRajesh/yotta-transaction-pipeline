@@ -2,11 +2,17 @@ __pycache__/
 .pytest_cache/
 .venv/
 *.py[cod]
+.coverage
+
 data/output/*
 data/generated/*
+data/logs/*
 logs/*
+
 !data/output/.gitkeep
 !data/generated/.gitkeep
+!data/logs/.gitkeep
 !logs/.gitkeep
+
 pipeline.db
-git status --short --untracked-files=all
+*.db
