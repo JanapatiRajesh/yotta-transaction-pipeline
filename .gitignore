@@ -9,3 +9,4 @@ logs/*
 !data/generated/.gitkeep
 !logs/.gitkeep
 pipeline.db
+git status --short --untracked-files=all
