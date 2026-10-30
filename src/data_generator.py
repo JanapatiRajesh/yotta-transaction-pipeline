@@ -1,5 +1,7 @@
 """Deterministic synthetic data generator for pipeline testing."""
 from __future__ import annotations
+import utils.transport
+import utils.session
 import argparse
 import csv
 import random
